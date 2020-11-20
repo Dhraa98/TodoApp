@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODO App</string>
+    <string name="title_add">Add</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_update">Update</string>
+    <string name="title_Done">Done</string>
+    <string name="msg_delete">Deleted</string>
+    <string name="title_new_task">Add Task</string>
+    <string name="title_name">Name</string>
+    <string name="error_task_require">Task required</string>
+</resources>
